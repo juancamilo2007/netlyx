@@ -1,0 +1,39 @@
+
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscador de Películas y Series</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <h1>NETLYX</h1>
+    <form id="formulario">
+        <label for="tipo">Seleccione el tipo:</label>
+        <select id="tipo" name="tipo">
+            <option value="peliculas.json">Películas</option>
+            <option value="series.json">Series</option>
+        </select>
+        <br>
+        <label for="titulo">Ingrese el título:</label>
+        <input type="text" id="titulo" name="titulo">
+        <br>
+        <button type="button" id="buscar">Buscar</button>
+    </form>
+
+    <div id="alerta" class="alert"></div>
+
+    <div class="container">
+        <div class="list-container">
+            <ul id="resultados"></ul>
+        </div>
+        <div class="info-container" id="info-container">
+            <div id="info"></div>
+        </div>
+    </div>
+
+    <script src="scrip.js"></script>
+</body>
+</html>

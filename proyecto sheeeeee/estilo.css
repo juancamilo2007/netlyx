@@ -1,0 +1,132 @@
+/* Estilo general del cuerpo */
+body {
+    font-family: Arial, sans-serif; 
+    margin: 0;
+    padding: 0;
+    background: url(image.png) no-repeat center center  fixed;
+    background-size: cover;
+
+}
+
+
+h1 {
+    text-align: center;
+    color: #000000; 
+}
+
+
+form {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold; 
+}
+
+input, select {
+    padding: 8px;
+    margin: 5px;
+    border: 2px solid #020202; 
+    border-radius: 20px; 
+}
+
+button {
+    background-color: #299b29; 
+    color: white; 
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 20px;
+}
+
+button:hover {
+    background-color: #030303;
+    transition: 0.5s;
+}
+
+
+.alert {
+    display: none;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background-color: #a50101;
+    color: #fff; 
+    padding: 10px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    z-index: 1000;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.alert.visible {
+    display: block;
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-between; 
+    margin: 0 20px;
+}
+
+
+.list-container {
+    width: 30%;
+    background-color:  #afafafd7; 
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow:  4px 8px rgba(0, 0, 0, 0.1); 
+}
+
+
+ul#resultados li {
+    font-weight: bold;
+    padding: 8px;
+    border-bottom: 1px solid #f5f5f5; 
+}
+
+ul#resultados li:last-child {
+    border-bottom: none;
+}
+
+
+.info-container {
+    width: 65%;
+    position: relative; 
+}
+
+
+.info-popup {
+    display: none; 
+    position: absolute;
+    top: 0;
+    left: 6%; 
+    width: 500px; 
+    border: 1px solid #ddd;
+    border-radius: 8px; 
+    padding: 10px;
+    box-shadow: 0 20px 20px rgba(10, 1, 1, 1.0);
+    z-index: 1000;
+    transition: opacity 0.3s ease-in-out; 
+}
+
+
+.info-popup.visible {
+    display: block;
+}
+
+
+.info-popup h3 {
+    margin-top: 0;
+}
+
+.info-popup p {
+    margin: 5px 0;
+}

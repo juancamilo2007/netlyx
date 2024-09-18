@@ -1,0 +1,64 @@
+[
+      {
+        "titulo": "el laberinto del fauno",
+        "descripcion": "Ambientada en la España franquista de 1944, una niña llamada Ofelia se traslada con su madre embarazada a una base militar dirigida por su cruel padrastro, el capitán Vidal. Mientras el régimen combate a la resistencia, Ofelia descubre un misterioso laberinto donde se encuentra con un fauno, quien le asigna tres pruebas para cumplir un destino mágico que la podría llevar a reencontrarse con su padre fallecido. La película mezcla la fantasía con la cruda realidad de la guerra.",
+        "año": 2006,
+        "actores": ["Ivana Baquero", "Sergi López", "Maribel Verdú"]
+      },
+      {
+        "titulo": "Amores Perros",
+        "descripcion": "En Ciudad de México, un accidente de tráfico conecta las vidas de tres personajes: Octavio, quien está enamorado de la esposa de su hermano; Valeria, una modelo cuya carrera se ve truncada por el accidente; y El Chivo, un ex guerrillero convertido en sicario. A través de sus historias, se explora la brutalidad, el amor y la desesperanza en un contexto urbano donde las decisiones de los personajes afectan profundamente sus destinos.",
+        "año": 2000,
+        "actores": ["Gael García Bernal", "Emilio Echevarría", "Goya Toledo"]
+      },
+      {
+        "titulo": "Y tu mamá también",
+        "descripcion": "Julio y Tenoch, dos adolescentes mexicanos, se embarcan en un viaje espontáneo junto a Luisa, una mujer mayor que enfrenta una crisis personal. A lo largo de su travesía hacia una playa secreta, las relaciones entre los tres cambian y evolucionan de manera inesperada, revelando tensiones sociales, políticas y sexuales. La película es una reflexión sobre la juventud, la clase social y los cambios inevitables que trae el tiempo.",
+        "año": 2001,
+        "actores": ["Gael García Bernal", "Diego Luna", "Maribel Verdú"]
+      },
+      {
+        "titulo": "Relatos Salvajes",
+        "descripcion": "Esta película está compuesta por seis historias cortas que exploran la naturaleza violenta y primitiva del ser humano. Desde venganzas personales hasta explosiones emocionales, cada relato muestra cómo los personajes reaccionan cuando son llevados al límite en situaciones de injusticia, humillación o desesperación. El humor negro y la crítica social están presentes en cada historia, exponiendo las frustraciones modernas.",
+        "año": 2014,
+        "actores": ["Ricardo Darín", "Leonardo Sbaraglia", "Érica Rivas"]
+      },
+      {
+        "titulo": "Mar Adentro",
+        "descripcion": "Ramón Sampedro es un hombre que ha pasado 28 años postrado en una cama tras un accidente que lo dejó tetrapléjico. A lo largo de la película, Ramón lucha por su derecho a la eutanasia, mientras forma vínculos profundos con dos mujeres: Julia, su abogada que también sufre una enfermedad degenerativa, y Rosa, una mujer del pueblo que intenta convencerlo de que la vida vale la pena ser vivida. La película explora temas como la libertad, la dignidad y el valor de la vida.",
+        "año": 2004,
+        "actores": ["Javier Bardem", "Belén Rueda", "Lola Dueñas"]
+      },
+      {
+        "titulo": "El Secreto de Sus Ojos",
+        "descripcion": "Benjamín Espósito, un oficial retirado de la justicia argentina, decide escribir una novela basada en un caso sin resolver de violación y asesinato que lo obsesionó durante décadas. A medida que investiga el caso, descubre nuevos secretos y revive su pasión por Irene, su superiora. La película alterna entre el presente y el pasado, mostrando cómo la justicia, el amor y la verdad se entrelazan en su búsqueda de respuestas.",
+        "año": 2009,
+        "actores": ["Ricardo Darín", "Soledad Villamil", "Guillermo Francella"]
+      },
+      {
+        "titulo": "Volver",
+        "descripcion": "Raimunda, una madre trabajadora, vive en Madrid con su hija adolescente. Cuando su esposo es asesinado, Raimunda debe ocultar el cuerpo y enfrentarse a su pasado, especialmente cuando el fantasma de su madre regresa para solucionar asuntos pendientes. A medida que se revelan secretos familiares, la película explora temas de culpa, perdón y la fortaleza femenina, con el telón de fondo de la cultura rural española.",
+        "año": 2006,
+        "actores": ["Penélope Cruz", "Carmen Maura", "Lola Dueñas"]
+      },
+      {
+        "titulo": "No se aceptan devoluciones",
+        "descripcion": "Valentín es un hombre despreocupado que vive en Acapulco, hasta que una antigua amante le deja una niña en la puerta, afirmando que es su hija. Aunque en un principio trata de deshacerse de ella, Valentín acaba cuidándola y mudándose a Los Ángeles para darle una mejor vida. A lo largo de los años, forma un vínculo inseparable con su hija, pero su vida da un giro cuando la madre biológica reaparece reclamando a la niña. La película aborda temas de paternidad, responsabilidad y amor incondicional.",
+        "año": 2013,
+        "actores": ["Eugenio Derbez", "Loreto Peralta", "Jessica Lindsey"]
+      },
+      {
+        "titulo": "Roma",
+        "descripcion": "En la Ciudad de México en los años 70, Cleo, una joven trabajadora doméstica de origen indígena, trabaja para una familia de clase media. A lo largo de la película, la vida de Cleo se entrelaza con la de la familia que la emplea, mientras enfrenta tanto las tensiones sociales como los desafíos personales. La película es una reflexión sobre la desigualdad social, la maternidad y el cambio, con un enfoque íntimo en los momentos cotidianos de la vida.",
+        "año": 2018,
+        "actores": ["Yalitza Aparicio", "Marina de Tavira", "Diego Cortina Autrey"]
+      },
+      {
+        "titulo": "La Casa de Papel",
+        "descripcion": "Un grupo de ocho delincuentes liderado por 'El Profesor' lleva a cabo un ambicioso plan para robar la Fábrica Nacional de Moneda y Timbre de España. Durante varios días, los ladrones intentan imprimir miles de millones de euros mientras mantienen a un grupo de rehenes. A lo largo del atraco, surgen conflictos internos, estrategias complejas y dilemas morales, en una historia llena de giros y tensión constante. La serie combina elementos de suspenso, drama y acción.",
+        "año": 2017,
+        "actores": ["Álvaro Morte", "Úrsula Corberó", "Itziar Ituño"]
+      }
+    ]
+  
+  

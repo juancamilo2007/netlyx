@@ -1,0 +1,64 @@
+[
+      {
+        "titulo": "La Casa de Papel",
+        "descripcion": "Un grupo de criminales cuidadosamente seleccionados, liderados por 'El Profesor', lleva a cabo el robo perfecto en la Fábrica Nacional de Moneda y Timbre en Madrid. A lo largo de varios días, los delincuentes intentan imprimir miles de millones de euros mientras mantienen rehenes y enfrentan la presión de la policía. La serie explora no solo la planificación minuciosa del atraco, sino también las relaciones entre los personajes, sus motivaciones personales y los dilemas éticos que surgen durante el asedio.",
+        "año": 2017,
+        "actores": ["Álvaro Morte", "Úrsula Corberó", "Itziar Ituño"]
+      },
+      {
+        "titulo": "Narcos",
+        "descripcion": "Esta serie sigue el ascenso y la caída del infame narcotraficante colombiano Pablo Escobar, quien controló el cartel de Medellín durante la década de los 80. A través de la perspectiva de agentes de la DEA, se muestra cómo el narcotráfico afecta no solo a Colombia, sino a todo el mundo. La serie profundiza en la lucha de las autoridades para capturar a Escobar mientras se enfrentan a la violencia, corrupción y el crecimiento exponencial del comercio de drogas.",
+        "año": 2015,
+        "actores": ["Wagner Moura", "Pedro Pascal", "Boyd Holbrook"]
+      },
+      {
+        "titulo": "elite",
+        "descripcion": "En Las Encinas, un exclusivo colegio privado en España, las tensiones entre los estudiantes de la élite y los de origen humilde se intensifican tras el asesinato de una de las alumnas. La serie sigue a un grupo de adolescentes mientras lidian con el amor, la amistad, los celos y la traición, todo mientras intentan resolver el misterio detrás del crimen. Con saltos temporales y giros dramáticos, Élite explora temas como las diferencias de clase y la corrupción.",
+        "año": 2018,
+        "actores": ["Itzan Escamilla", "Miguel Bernardeau", "Danna Paola"]
+      },
+      {
+        "titulo": "El Ministerio del Tiempo",
+        "descripcion": "Una organización secreta del gobierno español controla las puertas del tiempo para asegurarse de que la historia no sea alterada. Un equipo compuesto por un soldado del siglo XVI, una mujer universitaria del siglo XIX y un enfermero del siglo XXI viaja en el tiempo para evitar que personas del presente o del pasado modifiquen eventos históricos cruciales. La serie mezcla historia, ciencia ficción y humor, mostrando episodios clave de la historia de España.",
+        "año": 2015,
+        "actores": ["Rodolfo Sancho", "Aura Garrido", "Nacho Fresneda"]
+      },
+      {
+        "titulo": "Vis a Vis",
+        "descripcion": "La joven e ingenua Macarena es enviada a prisión tras ser acusada de cometer delitos financieros. A lo largo de su estadía en Cruz del Sur, una prisión de mujeres, descubre que debe adaptarse rápidamente para sobrevivir entre criminales peligrosas y un sistema corrupto. La serie explora las relaciones entre las reclusas, los enfrentamientos violentos y la lucha por la supervivencia, mientras Macarena busca limpiar su nombre y encontrar una salida.",
+        "año": 2015,
+        "actores": ["Maggie Civantos", "Najwa Nimri", "Alba Flores"]
+      },
+      {
+        "titulo": "Club de Cuervos",
+        "descripcion": "Cuando el patriarca de una familia adinerada que posee un equipo de fútbol muere, sus dos hijos, Isabel y Chava, se enfrentan por el control del club. Chava, un irresponsable que sueña con ser una figura pública, toma las riendas del equipo, mientras que Isabel, la hija más capacitada, lucha por obtener el respeto que se merece. La serie mezcla comedia y drama mientras explora la lucha de poder, la ambición y el mundo del fútbol en México.",
+        "año": 2015,
+        "actores": ["Luis Gerardo Méndez", "Mariana Treviño", "Stephanie Cayo"]
+      },
+      {
+        "titulo": "Los Simuladores",
+        "descripcion": "Un grupo de cuatro hombres se dedica a resolver problemas de personas comunes utilizando simulaciones y engaños elaborados. Cada caso implica la planificación meticulosa de una operación en la que crean situaciones falsas para manipular la realidad y ayudar a sus clientes a superar problemas legales, emocionales o financieros. La serie combina el drama con la comedia y el suspense, mientras los protagonistas juegan con la percepción y la realidad.",
+        "año": 2002,
+        "actores": ["Federico D'Elía", "Alejandro Fiore", "Diego Peretti"]
+      },
+      {
+        "titulo": "La Reina del Sur",
+        "descripcion": "Basada en la novela homónima de Arturo Pérez-Reverte, la serie sigue a Teresa Mendoza, una mujer que huye de México después del asesinato de su novio, un narcotraficante. En su fuga, Teresa construye un imperio criminal en España y se convierte en una de las narcotraficantes más poderosas del mundo. A lo largo de la serie, Teresa lucha por mantener el control de su organización y proteger a las personas que ama, mientras enfrenta la constante amenaza de sus enemigos.",
+        "año": 2011,
+        "actores": ["Kate del Castillo", "Cristina Urgel", "Alberto Jiménez"]
+      },
+      {
+        "titulo": "Monarca",
+        "descripcion": "Ana María, heredera de un imperio tequilero en México, regresa a su país después de varios años en el extranjero para tomar las riendas del negocio familiar tras la muerte de su padre. Mientras lucha por modernizar la empresa y hacerla más ética, se enfrenta a sus ambiciosos hermanos y a la corrupción en la industria. La serie explora las tensiones familiares, la ambición y la lucha por el poder en el contexto de los negocios y la política mexicana.",
+        "año": 2019,
+        "actores": ["Irene Azuela", "Juan Manuel Bernal", "Osvaldo Benavides"]
+      },
+      {
+        "titulo": "Luis Miguel: La Serie",
+        "descripcion": "Esta serie biográfica narra la vida de Luis Miguel, uno de los cantantes más populares de habla hispana, desde su infancia hasta su consolidación como estrella mundial. La historia explora los momentos clave de su carrera musical, así como los secretos y tragedias personales, incluyendo la desaparición de su madre y la compleja relación con su padre, quien lo presionó desde joven para convertirse en una estrella. La serie muestra los sacrificios y el precio de la fama.",
+        "año": 2018,
+        "actores": ["Diego Boneta", "Óscar Jaenada", "Camila Sodi"]
+      }
+    ]
+  
+  
